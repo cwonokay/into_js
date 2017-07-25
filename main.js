@@ -144,7 +144,7 @@ if(xy){
 } else {
 	console.log("False!");
 }
-// A:True
+// A:false
 
 
 // 22.
@@ -165,7 +165,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A:True
+// A:false
 
 
 // 24.
@@ -201,7 +201,7 @@ if({}){
 } else {
 	console.log("False!");
 }
-// A:False
+// A:True
 
 
 // 28.
@@ -219,7 +219,7 @@ if(new Date()){
 } else {
 	console.log("False!");
 }
-// A:False
+// A:True
 
 
 // 30.
